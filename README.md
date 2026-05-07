@@ -3,7 +3,7 @@
 </div>
 <h1 align="center"> Hi there! 👋 I'm Md. Abdul Hamid </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=SQA+Enginee+at+Softeko;Perpetually+acquiring+new+skills;Advancing+to+the+next+phase&center=true&width=500&height=50&color=FF5733"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=SQA+Engineer+at+Softeko;Perpetually+acquiring+new+skills;Advancing+to+the+next+phase&center=true&width=500&height=50&color=FF5733"></a>
 </p>
 <div align="center" >
   <div>
@@ -11,7 +11,7 @@
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdul-hamid007&layout=compact&langs_count=10&theme=highcontrast" width="33%"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdul-hamid007&layout=compact&langs_count=10&theme=2077" width="33%"/>
   </div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cabdul-hamid007&theme=2077" width="100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdul-hamid007&theme=2077" width="100%">
 </div>
 
 
